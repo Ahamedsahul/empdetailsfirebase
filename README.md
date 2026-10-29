@@ -31,12 +31,11 @@ Step 7: Save and run the application.
 
 ## PROGRAM:
 ```
-/*
 Program to print the DatabaseTable using the firebasedatabase”.
 Developed by:
 Registeration Number : 212224220099
 ```
-##Emp.java : 
+## Emp.java : 
 ```java
 
 package com.example.pmd1;
@@ -70,7 +69,7 @@ public class Emp {
 
 ```
 
-##MainActivity.java : 
+## MainActivity.java : 
 ```java
 package com.example.pmd1;
 
@@ -211,7 +210,7 @@ public class MainActivity extends AppCompatActivity {
 }
 
 ```
-##activity_main.xml :
+## activity_main.xml :
 ```xml
 
 <?xml version="1.0" encoding="utf-8"?>
