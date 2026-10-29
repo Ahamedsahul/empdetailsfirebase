@@ -32,8 +32,8 @@ Step 7: Save and run the application.
 ## PROGRAM:
 ```
 Program to print the DatabaseTable using the firebasedatabase”.
-Developed by:
-Registeration Number : 212224220099
+Developed by: Ahamed Sahul Hameed M
+Registeration Number : 212224040016
 ```
 ## Emp.java : 
 ```java
